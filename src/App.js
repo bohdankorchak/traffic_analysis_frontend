@@ -1,10 +1,10 @@
 import React from 'react';
-import MapComponent from './components/MapComponent';
+import MapRouteBuilder from './components/MapComponent';
 
 function App() {
     return (
         <div>
-            <MapComponent />
+            <MapRouteBuilder />
         </div>
     );
 }
